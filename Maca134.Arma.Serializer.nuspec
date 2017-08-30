@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>Maca134.Arma.DllExport</id>
-    <version>0.0.0.6</version>
-    <title>Maca134.Arma.DllExport</title>
+    <id>Maca134.Arma.Serializer</id>
+    <version>0.0.0.7</version>
+    <title>Maca134.Arma.Serializer</title>
     <authors>Maca134</authors>
-    <licenseUrl>https://github.com/maca134/Maca134.Arma.DllExport/blob/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/maca134/Maca134.Arma.DllExport</projectUrl>
+    <licenseUrl>https://github.com/maca134/Maca134.Arma.Serializer/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/maca134/Maca134.Arma.Serializer</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Simplify C# extensions for ARMA</description>
     <releaseNotes>See Github</releaseNotes>
