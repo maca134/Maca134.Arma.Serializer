@@ -1,0 +1,6 @@
+syntax: glob
+.vs/Maca134.Arma.Serializer/v15/.suo
+Maca134.Arma.Serializer/bin/*
+Maca134.Arma.Serializer/obj/*
+build/*
+packages/*
