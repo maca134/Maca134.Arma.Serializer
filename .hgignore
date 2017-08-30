@@ -4,3 +4,4 @@ Maca134.Arma.Serializer/bin/*
 Maca134.Arma.Serializer/obj/*
 build/*
 packages/*
+nupkg/*
