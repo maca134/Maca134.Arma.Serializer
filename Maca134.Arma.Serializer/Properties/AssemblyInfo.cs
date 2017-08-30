@@ -15,6 +15,6 @@ using System.Reflection;
 [assembly: AssemblyCompanyAttribute("Maca134")]
 [assembly: AssemblyProductAttribute("Maca134.Arma.Serializer")]
 [assembly: AssemblyCopyrightAttribute("Copyright 2017")]
-[assembly: AssemblyVersionAttribute("0.0.0.5")]
-[assembly: AssemblyFileVersionAttribute("0.0.0.5")]
+[assembly: AssemblyVersionAttribute("0.0.0.6")]
+[assembly: AssemblyFileVersionAttribute("0.0.0.6")]
 
